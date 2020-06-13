@@ -1,7 +1,3 @@
--- Assignment 2
--- Created by Daniel Yang
--- z3417098
-
 -- QUESTION 1: company names and countries outside Australia
 create or replace view Q1(Name, Country) as
 select  name, country
