@@ -1,10 +1,3 @@
--- COMP9311 17s2 Assignment 1
--- Schema for OzCars
---
--- Date: 25/08/17
--- Student Name: Daniel Yang
--- Student ID: z3417098
-
 -- EMPLOYEE
 
 create table Employee (
